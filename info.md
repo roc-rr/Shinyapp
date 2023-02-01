@@ -1,5 +1,5 @@
 The **HairEyeColor Relation App** was developed for Developing Data
-Products Course from Coursera.
+Products Course.
 
 The app is intended to perform interactive data analysis showing the
 distribution of hair and eye color aggregated by sex in 592 students at
